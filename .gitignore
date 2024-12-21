@@ -1,0 +1,14 @@
+config.yaml
+contracts/artifacts
+contracts/.states
+contracts/.prettierrc.json
+
+command.sh
+docker-compose.yaml
+config.json
+cache/
+out/
+lib/*
+
+*.p8
+notification
